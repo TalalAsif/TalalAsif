@@ -1,4 +1,4 @@
-Hey! I'm Zuhaib Hussain Butt or as friends call me Zuhaib and welcome to my GitHub profile! 👋🏻
+Hey! I'm Talal Asif or as friends call me Talal and welcome to my GitHub profile! 👋🏻
 <br>
 <p align="center">
  
