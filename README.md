@@ -11,7 +11,7 @@ I'm a <strong>storyteller</strong> at heart and seasoned <strong>research & anal
 
 
 
-🙂 A little about my personality: I am the type of person who will ask “What can I do to help and improve?” when presented with a problem and will pitch in whenever needed to find out-of-the-box solutions to existing processes. I am energized by collaborating with other people to find solutions and implementing them to see improvement. I strongly believe in giving back to society and uplift everyone around me.
+🙂 Describe me briefly: I am the kind of person that always asks, "What can I do to help and improve?" when a challenge is posed, and will assist whenever necessary to come up with creative fixes for current procedures. Working with others to identify problems and put those answers into practice to see progress gives me energy. I really believe in improving everyone around me and contributing back to society.
 
 😎 Keeping data science aside, I love to sketch in my free time.
 
@@ -21,11 +21,11 @@ Quantitative Analysis | Data Visualization | Problem Solving | Product Managemen
 
 **Machine Learning:**
 
-Statistics, Regression Modeling, Random Forest, XGBoost, kNN Classifier, K-means Clustering, Feature Extraction (PCA), Convolutional Neural Network
+Statistics, Regression Modeling, Random Forest, kNN Classifier, K-means Clustering, Feature Extraction (PCA), Convolutional Neural Network
 
 **Business Domain Expertise:**
 
-Sales and Marketing Analytics, Customer Segmentation, Customer Lifetime Value and Retention Analysis, Product Analytics, People Analytics
+Sales and Marketing Analytics, Customer Lifetime Value and Retention Analysis, Product Analytics, People Analytics
 
 <br>
 
