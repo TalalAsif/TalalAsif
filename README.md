@@ -17,7 +17,7 @@ I'm a <strong>storyteller</strong> at heart and seasoned <strong>research & anal
 
 **CORE COMPETENCIES**
 
-Research | Quantitative Analysis | Data Visualization | Problem Solving | Product Management | Public Speaking | Strategy Formulation | Mentoring
+Quantitative Analysis | Data Visualization | Problem Solving | Product Management | Public Speaking | Strategy Formulation | Mentoring
 
 **Machine Learning:**
 
