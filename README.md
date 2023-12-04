@@ -2,7 +2,7 @@ Hey! I'm Talal Asif or as friends call me Talal and welcome to my GitHub profile
 <br>
 <p align="center">
  
-I'm a <strong>storyteller</strong> at heart and seasoned <strong>research & analytics</strong> professional who loves solving problems and telling stories with data. I have aided organizations adopt data-driven decision-making solutions to improve businesses. One of my major quests has been to leverage data to find <strong>actionable insights</strong> and thus connect dollars to the business outcomes. I call myself a Data Evangelist as I believe in empowering every individual with Data-Literacy, thus I have played the role of a mentor as well.I have a great passion for <strong>Machine learning</strong> along with <strong>Data Science</strong>.
+I'm an experienced <strong>research & analytics</strong> professional with a heart of a storyteller who enjoys using data to solve problems and tell compelling tales. I have helped firms implement data-driven decision-making strategies to grow their operations. Using data to uncover <strong>actionable insights</strong> and link money to company outcomes has been one of my main goals. I consider myself a data evangelist since I have also acted as a mentor because I really believe that data literacy can empower every person.Along with <strong>Data Science</strong>, I am quite passionate about <strong>Machine learning</strong>.
 </p>
 
 
